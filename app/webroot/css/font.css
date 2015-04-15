@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'AGENCYR';
+	src: url('../font/AGENCYR.eot');
+	src: local('AGENCYR'), url('../font/AGENCYR.woff') format('woff'), url('../font/AGENCYR.ttf') format('truetype');
+}
+/* font-family: 'AGENCYR' !important; */
+@font-face {
+	font-family: 'AGENCYB';
+	src: url('../font/AGENCYB.eot');
+	src: local('AGENCYB'), url('../font/AGENCYB.woff') format('woff'), url('../font/AGENCYB.ttf') format('truetype');
+}
+/* font-family: 'AGENCYB' !important; */

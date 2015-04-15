@@ -1,0 +1,159 @@
+* { padding: 0px; margin: 0px;font-family: Arial; }
+a { text-decoration:none; }
+img { border:0; }
+
+body { background: url("../img/index/concurso_bg.png") center 10px no-repeat #d8e2ee; }
+html,body { margin:0;padding:0;height:100%;}#wrapper { min-height:100%;position:relative; }
+
+p { margin-bottom: 15px; line-height: 20px; font-size: 14px;}
+
+.center { width:960px;margin:0 auto; position: relative;}
+#header { background: #6ccff6;}
+#header .logo { float: left; width: 15%; margin: 25px 0; }
+#header .logo img { width: 100%; }
+
+#header .menu { float: right;width: 80%; }
+#header .menu ul { list-style: none; padding-left: 25px; height: 80px; }
+#header .menu ul > li { float: left; }
+#header .menu ul > li a:hover, #header .menu ul > li a.active { color: #096f9f;border-bottom: 5px solid #096f9f;}
+#header .menu ul > li.first {  }
+#header .menu ul > li.last {  }
+#header .menu ul > li > a { cursor:pointer;font-family: 'AGENCYR' !important; font-size: 22px;color: #000; padding: 0px 30px 0px; height: 84px;display: block; line-height: 85px; }
+
+#article { height: 791px; }
+#article > .center { height: 100%;}
+
+
+/* O QUE E */
+.folhas { background: url("../img/index/folhas.png") no-repeat; background-size: 100%; width: 450px; height: 670px; position: absolute; top: 110px; left: 10px; z-index: 10;}
+.concurso_cultural { background: url("../img/index/concurso_cultural.png") no-repeat; background-size: 100%; width: 450px; height: 360px; position: absolute; top: 190px; left: -30px; z-index: 20;}
+.caderno { background: url("../img/index/content_caderno.png") no-repeat; background-size: 100%; width: 800px; height: 650px; position: absolute; top: -20px; right: 0;color: #096f9f; z-index: 30;}
+.caderno .left { margin-top: 210px;float: left; width: 270px; margin-left: 120px; }
+.caderno .right {margin-top: 215px;float: left;width: 255px;margin-left: 35px;}
+.caderno h1 { margin-bottom: 15px;font-family: 'AGENCYR' !important;color: #096f9f; }
+.lapis { background: url("../img/index/lapis.png") no-repeat; background-size: 100%; width: 350px; height: 234px; position: absolute; bottom: 50px; left: 385px; z-index: 40;}
+
+/* COMO FUNCIONA */
+.concurso_cultural_2 { background: url("../img/index/concurso_cultural.png") no-repeat; background-size: 100%; width: 450px; height: 370px; position: absolute; top: 150px; left: -30px; z-index: 30;}
+.livros { background: url("../img/index/livros.png") no-repeat; background-size: 100%; width: 750px; height: 387px; position: absolute; bottom: 50px; right: 30px; z-index: 10; }
+.balao { background: url("../img/index/balao.png") no-repeat; background-size: 100%; width: 620px; height: 570px; position: absolute; top: 40px; right: 0px; z-index: 20; color: #fff;}
+.balao h1 { font-family: 'AGENCYR' !important;margin: 130px 0 20px 100px;font-weight: normal;font-size: 45px; }
+.balao ol { margin: 0px 0 0 127px; }
+.balao ol li { font-size: 14px; }
+.balao .cote { margin: 20px 0 0 120px;font-size: 25px;line-height: 25px;font-weight: bold; }
+.balao .frase2 { margin: 20px 0 0 170px; font-size: 16px;line-height: 25px;font-weight: bold; width: 338px;}
+
+/* PREMIOS */
+.premios { background: url("../img/index/premios.png") no-repeat; background-size: 100%; width: 210px; height: 110px; position: absolute; top: 100px; left: 240px; z-index: 10;}
+.premio1, .premio2, .premio3 { color: #fff; }
+.premio1 { background: url("../img/index/premios1.png") no-repeat; background-size: 100%; width: 400px; height: 250px; position: absolute; top: 70px; right: 150px; z-index: 10;}
+.premio1 h1 { font-family: 'AGENCYR' !important; margin: 30px 0 0 250px; }
+.premio1 p { margin: 20px 0 0 210px;line-height: 18px;font-size: 15px; }
+
+.premio2 { background: url("../img/index/premios2.png") no-repeat; background-size: 100%; width: 450px; height: 220px; position: absolute; top: 290px; right: 70px; z-index: 10;}
+.premio2 h1 { font-family: 'AGENCYR' !important; margin: 30px 0 0 270px; }
+.premio2 p { line-height: 18px;  font-size: 15px;margin: 15px 0 0 260px; }
+
+.premio3 { background: url("../img/index/premios3.png") no-repeat; background-size: 100%; width: 450px; height: 260px; position: absolute; top: 470px; right: 120px; z-index: 10;}
+.premio3 h1 { font-family: 'AGENCYR' !important; margin: 30px 0 0 300px; }
+.premio3 p { line-height: 18px;  font-size: 15px;margin: 30px 0 0 270px; }
+
+/* REGULAMENTO */
+.globo { background: url("../img/index/globo.png") no-repeat; background-size: 100%; width: 700px; height: 420px; position: absolute; bottom: 50px; right: 30px; z-index: 10; }
+.regulamento { background: url("../img/index/regulamento.png") no-repeat; background-size: 100%; width: 450px; height: 540px; position: absolute; top: 50px; right: 180px; z-index: 20; color: #fff;}
+.regulamento h1 { font-family: 'AGENCYR' !important;font-weight: normal; margin: 50px 0 35px 30px;}
+.regulamento p { margin: 0 0 20px 30px; font-size: 13px;padding: 0 90px 0 0; }
+.regulamento a { float: right;margin: 0 102px 0 0;padding-left: 30px;color: #fff;font-weight: bold;font-size: 14px;text-decoration: underline;background: url(../img/index/seta.png) no-repeat; }
+
+/* HOME */
+.menina { background: url("../img/index/menina.png") no-repeat; background-size: 100%; width: 500px; height: 495px; position: absolute; bottom: 50px; right: 0px; z-index: 10; }
+.menina_desc { border: 1px solid #C8C8C8;position: absolute;color: #7c7d80;width: 275px;right: 28px; bottom: 50px;z-index: 50;background: #fff;font-size: 11px;text-align: center;padding: 5px 4px; }
+.mensagem { position: absolute;color: #7c7d80;left: 0; bottom: 55px;z-index: 50;font-size: 11px;text-align: center;padding: 5px 4px; }
+.concurso_cultural_3 { background: url("../img/index/concurso_cultural.png") no-repeat; background-size: 100%; width: 480px; height: 430px; position: absolute; top: 150px; left: -30px; z-index: 30;}
+.frase { background: url("../img/index/frase.png") no-repeat; background-size: 100%; width: 450px; height: 225px; position: absolute; top: 50px; right: 70px; z-index: 30;}
+.inscricao { text-align: center;position: absolute;color: #2dc5f4;font-size: 23px;top: 315px; right: 245px; z-index: 70;}
+.inscricao .small { font-size: 28px !important; }
+.inscricao .azul { font-family: 'AGENCYR' !important ;font-size: 24px; }
+.inscricao .cinza { font-family: 'AGENCYR' !important;color: #83868c;font-size: 25px; }
+.inscricao .cinza strong { font-family: 'AGENCYB' !important; }
+.inscricao .azul a { font-family: 'AGENCYB' !important;color: #2dc5f4;font-size: 25px; }
+
+#footer { width:100%;position:absolute;bottom:0;left:0;background: #007caf;width: 100%; padding: 25px 0px 10px; color: #fff; font-size: 13px;}
+#footer .center { padding: 0 30px;width: 900px; }
+
+/* PARTICIPE */
+.mensagem_envio { position: absolute;width: 500px; height: 180px;right: 140px;top: 200px; background: url("../img/index/like.png") no-repeat center 115px #f3f6f9;text-align: center;font-size: 28px;font-weight: bold;padding-top: 35px;color: #096f9f;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px; }
+.concurso_cultural_4 { background: url("../img/index/concurso_cultural.png") no-repeat; background-size: 100%; width: 410px; height: 370px; position: absolute; top: 150px; left: -30px; z-index: 30;}
+.form_concurso { background: #f7f8f7; width: 500px; float: right; padding: 15px 80px 40px;}
+.form_concurso fieldset { border: 0;border-radius: 10px;margin-bottom: 5px;padding: 0px 10px }
+.form_concurso label { font-family: 'Source Sans Pro', sans-serif;font-weight:bold;color:#007cab; display: block; margin: 20px 0 15px 0;}
+.form_concurso label.normal {
+    min-width: inherit !important;
+  }
+.form_concurso label label { height: 20px;display: block;float: left;font-size: 25px;line-height: 30px; }
+.form_concurso .row_form label { color: #6ccff6;font-size: 13px; display: block; float: left; height: 23px; line-height: 23px; min-width: 50px; text-transform: uppercase; margin: 0; padding-right: 10px;}
+.form_concurso .row_form label.secundary-label { text-align: right; margin-left: 10px;min-width: initial; padding-right: 10px; }
+.form_concurso .row_form { margin: 3px 0; clear: both; height: 25px;}
+.form_concurso .row_form.normal { margin: 0;height: auto; }
+.contentSelect {float: left;}
+fieldset p { color:#6ccff6;text-align: center; }
+fieldset p.textarea_label { font-size: 12px;color: #096f9f;font-weight: bold;margin: 0; }
+fieldset input[type="email"], fieldset input[type="text"], fieldset textarea, fieldset select { background: none;border: 2px solid #cacdd5;height: 15px;width: 160px;font-family: 'Source Sans Pro', sans-serif;padding:2px 5px; float: left;}
+fieldset input.email_field { width: 180px; }
+fieldset input.cpf_field { width: 238px; }
+fieldset input.cep_field { width: 70px; }
+fieldset input.uf_field { width: 45px; }
+fieldset input.bairro_field { width: 122px; }
+fieldset input.cidade_field { width: 122px; }
+fieldset input.numero_field { width: 50px; }
+fieldset input.complemento_field { width: 88px; }
+fieldset select.estado_field { width: 165px; }
+fieldset select.uCidade_field { width: 160px; }
+fieldset select.unidade_field { width: 395px; }
+fieldset select.orientador_field { width: 350px; }
+fieldset input.error, fieldset textarea.error, fieldset select.error { border: 2px solid #ff6c6c;color:#ff6c6c; }
+fieldset textarea { height: 75px; width: 455px;background: #fff;resize: none; margin-bottom: 5px;}
+.form_concurso .row_form label.error { color: #ff6c6c;clear: both;display: block; }
+fieldset .button { cursor:pointer; background: #ffc600; border: 0px; padding: 5px 15px;font-family: 'Source Sans Pro', sans-serif;font-weight: bold;font-size: 13px; color: #000; margin: 0 10px 0 0;height: auto;width: auto; float: right;}
+fieldset input.Tlarge { width: 400px; }
+fieldset input.large { width: 370px; }
+fieldset input.medium { width: 95px; }
+fieldset select { width: 160px;height: 25px;padding: 0 10px 0 2px; }
+fieldset select.large { width: 200px; }
+fieldset select.extraLarge { width: 300px; }
+fieldset select.medium { width: 95px; }
+fieldset input.small { width: 35px; }
+fieldset select[disabled="disabled"] {background: #f4f4f4;}
+
+/**	MODAL do formulario de inscriçao **/
+/** Sergio A. Oliveira */
+.ui-widget-header { background-color: #6ccff6 !important; }
+.ui-dialog-titlebar-close, .ui-button-icon-primary.ui-icon.ui-icon-closethick { background: #e6e6e6 url(/concursoculturalkumon/img/closelabel.png) 50% 50% no-repeat !important; }
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-dialog-buttons.ui-draggable { border: 1px solid #6ccff6 !important; }
+.ui-widget-content { border-top: 1px solid #6ccff6 !important; }
+.ui-button-text{ background-color: #ABE2F8 !important; }
+#aviso{ font-size: 17px ; }
+
+@media screen and (max-width: 767px) {
+	body { background: red; }
+}
+@media screen and  (min-width: 768px) and (max-width: 991px) {
+	.center { width: 760px; }
+	#footer .center { padding: 0 15px;width: 730px; }
+	#header .menu ul > li > a { padding: 0px 15px 0px; }
+	#header .logo { margin: 25px 0 0 15px; }
+	.concurso_cultural_3 { width: 410px;height: 340px;top: 10px;left: 0px; }
+	.inscricao { top: 335px;right: 250px; }
+	.frase { width: 290px;height: 145px;top: 60px;right: 30px; }
+	.menina { width: 500px;height: 495px;bottom: 50px;right: 0px; }
+	.mensagem { width: 310px; }
+	.concurso_cultural { width: 300px;height: 250px;top: 110px;left: 00px; }
+	.regulamento { width: 450px;height: 485px;top: 50px;right: 0px; }
+	.globo { width: 550px;height: 420px;bottom: 17px;right: 0px; }
+	.premios { width: 210px;height: 70px;top: 30px;left: 240px; }
+	.premio1 { width: 400px;height: 250px;top: 70px;right: 50px; }
+	.premio2 { width: 450px;height: 220px;top: 300px;right: 40px; }
+	.premio3 { width: 450px;height: 260px;top: 480px;right: 80px; }
+}
+@media screen and  (min-width: 992px) and (max-width: 1200px) {  }
+@media screen and  (min-width: 1200px) {  }

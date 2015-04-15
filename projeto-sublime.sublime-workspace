@@ -1,0 +1,1321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fra",
+				"fraseAlerta"
+			],
+			[
+				"valor",
+				"valor2"
+			],
+			[
+				"conruso",
+				"concursos"
+			],
+			[
+				"exi",
+				"existe_comissao"
+			],
+			[
+				"curre",
+				"current_user_can"
+			],
+			[
+				"get_",
+				"get_leads  (function)"
+			],
+			[
+				"pos",
+				"posts  (variable)"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"sucess",
+				"success"
+			],
+			[
+				"DATA_F",
+				"DATA_FIM_ADMINISTRADOR_VER_COORDENADORES"
+			],
+			[
+				"DATA_FI",
+				"DATA_FIM_ADMINISTRADOR_VER_NOTA"
+			],
+			[
+				"DATA_INICIO",
+				"DATA_INICIO_ADMINISTRADOR_VER_NOTA"
+			],
+			[
+				"DATA_IN",
+				"DATA_INICIO_ORIENTADOR"
+			],
+			[
+				"ara",
+				"array"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"fili",
+				"filiais"
+			],
+			[
+				"usua",
+				"usuario_id"
+			],
+			[
+				"ace",
+				"acessos"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"dat",
+				"data_fim"
+			],
+			[
+				"Confi",
+				"Config"
+			],
+			[
+				"De",
+				"Debugger::dump"
+			],
+			[
+				"Coor",
+				"Coordenadores"
+			],
+			[
+				"data_",
+				"data_inicio"
+			],
+			[
+				"cla",
+				"classe"
+			],
+			[
+				"arr",
+				"array_merge($dados0"
+			],
+			[
+				"cl",
+				"classe"
+			],
+			[
+				"margin-",
+				"margin-top:   (property)"
+			],
+			[
+				"font",
+				"font-size:   (property)"
+			],
+			[
+				"colo",
+				"color:#000"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-image:   (property)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"disp",
+				"display:none"
+			],
+			[
+				"a",
+				"auto  (value)"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"width",
+				"width:   (property)"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"dado",
+				"dado"
+			],
+			[
+				"da",
+				"dado  (variable)"
+			],
+			[
+				"script",
+				"scripts"
+			],
+			[
+				"get_post",
+				"get_post_meta  (function)"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"gues",
+				"guest  (variable)"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"tip",
+				"tipos_negocios  (variable)"
+			],
+			[
+				"coun",
+				"count_tipos_negocio"
+			],
+			[
+				"mostrar",
+				"mostrarlocacao"
+			],
+			[
+				"mos",
+				"mostrarvenda"
+			],
+			[
+				"linh",
+				"linhaconfig  (variable)"
+			],
+			[
+				"mostra",
+				"mostrartemporada"
+			],
+			[
+				"GLO",
+				"GLOBALS  (variable)"
+			],
+			[
+				"P",
+				"post  (variable)"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"dados",
+				"dados_acesso"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"get",
+				"get_post_meta"
+			],
+			[
+				"cha",
+				"charset"
+			],
+			[
+				"html",
+				"html	html"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/webroot/js/functions.js",
+			"settings":
+			{
+				"buffer_size": 11269,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/View/Concursos/premios.ctp",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/W/kumon/concursoculturalkumon_OLD/app/View/Concursos/index.ctp",
+			"settings":
+			{
+				"buffer_size": 8231,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/W/kumon/concursoculturalkumon_OLD/app/View/Layouts/default.ctp",
+			"settings":
+			{
+				"buffer_size": 47061,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 640.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/W/kumon/concursoculturalkumon",
+		"/W/kumon/concursoculturalkumon/app",
+		"/W/kumon/concursoculturalkumon/app/webroot",
+		"/W/kumon/concursoculturalkumon/app/webroot/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/review-order.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/wamp/www/crisprovisorio/wp-content/themes/twentyfourteen/page.php",
+		"/W/kumon/concursoculturalkumon/app/View/Layouts/default.ctp",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/functions-studio.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/functions-enfold.php",
+		"/W/ventura/wp-config.php",
+		"/W/ventura/wp-content/plugins/seo-redirection/seo-redirection.php",
+		"/W/ventura/wp-content/themes/enfold/functions-studio.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/accountbar.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/partial-cart.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/functions-kumon.php",
+		"/W/ventura/wp-content/plugins/gravityforms/entry_list.php",
+		"/W/ventura/wp-content/themes/enfold/functions.php",
+		"/C/Users/Rodrigo/Desktop/___ARQ DO DIA/ewp-custom-post-types-guide-part1-attach1.php_/ewp-custom-post-types-guide-part1-attach1.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/contato.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/nao_achei.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/style.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/head.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Configs/index.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Controller/ConfigsController.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Controller/UsuariosController.php",
+		"/W/kumon/concursoculturalkumon/app/Config/database.php",
+		"/W/kumon/concursoculturalkumon/app/View/Concursos/home.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Configs/configurar_acessos.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Configs/configurar_datas.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Controller/AppController.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Concursos/listar_admin.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Concursos/home.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Controller/ConcursosController.php",
+		"/W/kumon/concursoculturalkumon/app/Config/core.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Usuarios/add_usuario_studio.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Concursos/listar.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Model/Config.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Concursos/listar_admin_para_nota.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Concursos/listar_admin_notas.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Model/Concurso.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/database.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Concursos/index.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/custom.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Config/configurar_datas.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Controller/ConfigController.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Model/Data.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Config/index.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/View/Config/configurar_datas.ctp.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon - Cópia/app/View/Concursos/home.ctp",
+		"/C/wamp/www/kumon/concursoculturalkumon2/admin/app/Config/database.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/core.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/bootstrap.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/index.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/webroot/index.php",
+		"/C/wamp/www/kumon/cake/app/Config/core.php",
+		"/C/wamp/www/kumon/cake/app/Config/database.php",
+		"/C/wamp/www/kumon/cake/app/Config/bootstrap.php",
+		"/C/Users/Rodrigo/Desktop/SERGIO/__________BACKUPS/Criador de Lojas/demo2/wp-content/plugins/wordpress-seo/admin/pages/import.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/acl.ini.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/acl.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Config/routes.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/about 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/press-this.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/media.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/media 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/press-this 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/about.php",
+		"/C/wamp/www/kumon/concursoculturalkumon/app/Controller/OrientadorController.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 30.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 29.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 28.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 27.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 26.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 25.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 24.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 23.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 22.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 21.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 20.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 19.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 18.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 17.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 3.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 16.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 15.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 14.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 13.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 12.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 11.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 10.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 9.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 8.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 7.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 6.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 5.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/conect 4.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/W/kumon/emails/out-29-feira-poa/index.html",
+		"/W/kumon/emails/out-30-onepin/index.html",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/wp-blog-header.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/wamp/www/wordpress/wp-content/themes/twentyfourteen/functions.php",
+		"/W/kumon/wp-content/plugins/wp-excel-cms/wp-excel-cms.php",
+		"/W/kumon/wp-content/plugins/wp-excel-cms/admin/views/admin-menu.php",
+		"/C/wamp/www/wordpress/wp-login.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/Users/Rodrigo/Desktop/___ARQ DO DIA/__Em uso provisorio/shopping.universia.com.br-HOM/wp-config.php",
+		"/W/kumon/emails/out-27-onepin/email_envio.html",
+		"/W/kumon/emails/out-27-onepin/index.html",
+		"/W/kumon/emails/out-27-feira-poa/index.html",
+		"/W/kumon/emails/out-24-encontro/index.html",
+		"/W/kumon/emails/template-padrao-para-emails/index.html",
+		"/W/kumon/emails/template-padrao-para-emails/email_envio.html",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/functions-studio 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/preview_mod 2.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/preview_mod.php",
+		"/C/Users/Rodrigo/AppData/Local/Temp/fz3temp-1/buttons.php",
+		"/W/1pin/adm/inc/query/DB.php",
+		"/W/onepin.com.br/hom-sistema/adm/inc/functions.inc.php",
+		"/W/onepin.com.br/hom-sistema/default/imoveis_destaque.php",
+		"/W/onepin.com.br/hom-sistema/adm/imoveis/cad_imoveis.php",
+		"/W/onepin.com.br/hom-sistema/default/detalhes_do_imovel.php",
+		"/C/Users/Rodrigo/Desktop/___ARQ DO DIA/__Em uso provisorio/mochileiro 2014-08-15/wp-content/themes/WPGroupbuy/wpg-framework/account/register-user.php",
+		"/W/onepin.com.br/hom-sistema/adm/conect.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>",
+			"Open files",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"payment m",
+			"payment",
+			"COORDENADOR",
+			"coordenadores",
+			"de escolha das melhores frases pelos ",
+			"encontro/",
+			"author_email",
+			"ONDE ESTAMOS",
+			"imó",
+			"encontre",
+			"$fone",
+			"fone icone",
+			"requi",
+			" array('class' => 'success')",
+			"setFlash",
+			"'class' => 'class', 'placeholder' => ''",
+			"redi",
+			"'class' => 'class'",
+			"filiais",
+			"getA",
+			"\")",
+			"getA",
+			"fili",
+			"sele",
+			"debu",
+			"data_fim",
+			"find",
+			"\")\n",
+			"save",
+			"nota",
+			"notas",
+			"getA",
+			"numrows",
+			"filiais",
+			"contaFrases",
+			"getA",
+			"contaf",
+			"cont",
+			"filiais",
+			"contaFrases",
+			"<?phpphp",
+			"<?",
+			"<?phpphp",
+			"<?",
+			"<?phpphp",
+			"<?",
+			"<?phpphp",
+			"<?",
+			"<?phpphp",
+			"<?",
+			"listar",
+			"email",
+			"deb",
+			"base",
+			"allowscriptaccess",
+			"http:",
+			"allowscriptaccess",
+			"898315_op",
+			"898345_op",
+			"898315_op",
+			"898345_op",
+			"130",
+			"131",
+			"ine/?add-to-cart=2242",
+			"http://onepin.com.br/",
+			"http:",
+			"wpadminbar",
+			"http://shopping.universia.c",
+			"http:",
+			"terms",
+			"img/email",
+			"http://www.kumon.com.br/mailmkt/emails_mkt/",
+			"case",
+			"src=\"img",
+			"<a href=\"#\">",
+			"<td>",
+			"</td>",
+			"<td>",
+			"<img ",
+			"layou",
+			"tema",
+			"mysql",
+			".com",
+			"id_user",
+			"merc",
+			"Imports and managages content o",
+			"Start upload",
+			"101",
+			"cond",
+			"101",
+			"mostrar",
+			"config",
+			"che",
+			"hom",
+			"negocio_select",
+			"Tipo de transação",
+			"linha_mostrar",
+			"template_html",
+			"ut",
+			"<a",
+			"woocommerce_get_view_order_url",
+			"detect_indentation",
+			"space",
+			"'.home_url().'/",
+			"get_search_form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"LIDER",
+			"lideres",
+			"",
+			"corretor2",
+			"'default', array('class' => 'success')",
+			"'selected' => Configure::read('DATA_INICIO')",
+			"'dateFormat' => 'DMY', 'class' => 'class'",
+			"filial",
+			"<?php",
+			"<?",
+			"",
+			"899415_op",
+			"899415_op159\n899415_op159\n899415_op159\n899415_op",
+			"898315_op",
+			"159",
+			"158",
+			"157",
+			"156",
+			"155",
+			"154",
+			"153",
+			"152",
+			"151",
+			"150",
+			"149",
+			"148",
+			"147",
+			"146",
+			"145",
+			"144",
+			"143",
+			"142",
+			"141",
+			"140",
+			"139",
+			"138",
+			"137",
+			"136",
+			"135",
+			"134",
+			"133",
+			"132",
+			"131",
+			"ine/?add-to-cart=2356",
+			"http://onepin.com.br/assine/?add-to-cart=2242",
+			"",
+			"https://shopping.universia.c",
+			"http://www.kumon.com.br/mailmkt/emails_mkt/out-29-feira-poa/img/email",
+			"",
+			"src=\"http://www.kumon.com.br/mailmkt/emails_mkt/out-24-encontro/img",
+			"<a href=\"http://www.kumon.com.br/encontro/?utm_source=email-mkt-encontro-2015-01&utm_medium=email-mkt&utm_campaign=encontro-2015&utm_content=lancamento-encontro-2015&utm_term=dc\">",
+			"<td> <a href=\"#\">",
+			"<tdt> <a href=\"#\">",
+			"</a></td>",
+			"<td><a href=\"http://onepin.com.br/\">",
+			"<img alt=\"Tenha seu site imobiliário\" ",
+			"129",
+			"128",
+			"127",
+			"126",
+			"125",
+			"124",
+			"123",
+			"122",
+			"121",
+			"120",
+			"119",
+			"118",
+			"117",
+			"116",
+			"115",
+			"114",
+			"113",
+			"112",
+			"111",
+			"110",
+			"109",
+			"108",
+			"107",
+			"106",
+			"105",
+			"104",
+			"103"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/webroot/js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4028.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/View/Concursos/premios.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/W/kumon/concursoculturalkumon_OLD/app/View/Concursos/index.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1924,
+								1924
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/W/kumon/concursoculturalkumon_OLD/app/View/Layouts/default.ctp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6922,
+								6922
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3054.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "projeto-sublime.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

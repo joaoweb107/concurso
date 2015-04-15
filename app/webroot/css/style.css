@@ -1,0 +1,446 @@
+@charset "utf-8";
+
+.filtro_admin{
+		border: 1px solid #e2e2e4;
+		box-shadow: none;
+		color: #c2c2c2;		
+		display: block;
+		width: 100%;
+		height: 34px;
+		padding: 6px 12px;
+		font-size: 14px;
+		line-height: 1.428571429;
+		color: #555;
+		background-color: #fff;
+		background-image: none;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+		box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+		-webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+		transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	}
+	
+td div.select {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#estado_admin{
+	width: 80px;
+	}	
+	
+.melhor_orientador{
+	margin-left: 5px;	
+	background: url(../img/checkbox_green2.gif) no-repeat;
+	width: 34px;
+	display: block;
+	height: 34px;
+	margin: 0 auto;
+}
+
+.error-message{
+	color:red;	
+	/*margin-left: 60px;
+	padding-bottom: 38px;*/
+	}
+	
+.classificacao{
+	padding-top: 10px;
+	font-size: 30px;
+	}
+.classificacao span{
+	padding-top: 10px;
+
+	font-size: 18px;
+	}
+
+.error{
+	font-weight: bold;
+	color: red;	
+	}
+	
+.header {
+	background-color: #99ccff !important;
+	height: 63px;
+}
+.header img{padding-top:6px;}
+.caret{	
+   /* margin-left: 50px !important;*/
+	}
+	
+.dropdown{
+    margin-left: 4px;
+    padding-left: 0px;
+    /*width: 350px !important;*/
+}
+
+.username{
+	padding-left: 10px;
+}
+.panel-buttons{
+/* background: url(template/images/banner_concurso.jpg) no-repeat; */
+
+	
+width: 750px;
+	margin: auto;
+	/*box-shadow: 0 0 4px #AAA;*/
+	padding:12px;
+	text-align: center;
+	
+background: #fff;
+border-radius: 25px;
+}
+	
+.panel-buttons .btn-group-justified	{
+	width:80%;
+	margin: auto;
+	}
+.panel-buttons div a{
+	margin: 0 5px;	
+}
+.panel-buttons h4{
+	padding-bottom: 5px;
+	padding-top: 10px;
+	}
+	
+.dataTables_wrapper{
+	/*margin-top: 17px;	*/
+	}
+
+.green{
+	font-weight: bold;
+	color: green;
+	}
+
+#div_btn_salvar_frase {
+	float:right;
+}
+#div_btn_salvar_frase a{
+	margin: 8px;	
+}
+
+	
+
+#logo_concurso{	
+	height: 600px;
+	margin-top: 175px;
+	background-color: white;
+	border-radius: 15px;
+	opacity: .8;
+	float: left;
+}
+#logo_concurso img{
+display: block;
+width: 362px;
+margin: 0 auto;
+margin-top: -111px;
+}
+
+#login_orientador_texto{
+	width: 579px !important;
+	padding-bottom: 15px;
+}
+
+
+#texto_login{
+	margin-top:150px;
+	padding: 0 27px;
+	color:#014d69;
+	font-size:14px;
+	text-align: center;	
+	font-weight: 500;
+}
+
+#login_admin #texto_login{
+	margin-top: 49px;
+}
+
+#login_admin .lock-pwd {
+
+}
+
+#login_admin .lock-box { }
+
+#login_admin #UsuarioUsername{
+	width: 185px;
+	margin: 8px 0 0 0;
+	border: 1px solid #ccc;
+	}
+#login_admin .lock-name{
+/*	box-shadow: -8px 2px 19px -3px #014d69;*/
+}
+
+#login_admin #UsuarioPassword {
+	width: 185px;
+	border: 1px solid #ccc;
+	margin: 6px 0 0 0;
+}
+
+#login_admin .form-group {
+
+}
+
+#texto_login h3{
+	text-align: center;		
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+#texto_login div{
+	margin-top: 15px;
+	text-align: center;
+}
+#texto_login div h4{
+	font-weight: 600;
+}
+
+#UsuarioPassword{
+	width: 170px;	
+	border: 1px solid #ccc;
+	margin: 8px 0 0 0;
+	}
+
+
+.ui-state-default .ui-icon {
+	background-image: url(../css/template/assets/jquery-ui/images/ui-icons_888888_256x240.png) !important;
+}
+
+.ui-icon, .ui-widget-content .ui-icon {
+	background-image: url(../css/template/assets/jquery-ui/images/ui-icons_222222_256x240.png) !important;
+}
+
+.seleciona_melhor_admin{
+	margin: 0 auto !important;
+	width: 65px !important;
+}
+
+.span_regulamento{
+	margin: 30px 0 10px 0;
+	text-align: center;
+	font-weight: bold;	
+	display: block;
+}
+
+.span_regulamento_coordenador{
+	margin: 30px 0 10px 0;
+	font-weight: bold;	
+	display: block;
+}
+
+.span_regulamento_lider{
+	margin: 30px 0 10px 0;
+	font-weight: bold;	
+	display: block;
+}
+
+
+.link{
+		
+}
+.close {
+ 	opacity: 1 !important;
+}
+
+#bg_listar{
+	background:url(template/images/bg_interna.jpg);
+}
+
+.facebox_home{
+	width: 780px;
+	margin-top: -25px;
+	}
+	
+.lock-wrapper{margin-top: 0 !important;}
+
+.lock-box{
+	margin-right: 0px;
+}
+.lock-wrapper {
+
+	max-width: inherit !important;
+}
+.login-wrap {
+	padding: 20px 80px 20px 115px !important;
+}
+.lock-pwd{
+	float: none !important;
+	background: transparent !important;
+	padding: 0 !important;
+	width: 240px !important;
+	margin: 0px auto 0 !Important;
+	height: auto !important;
+}
+.lock-pwd.admin { float: left !important; }
+.lock-name {
+	background: transparent !important;
+	padding: 0 !important;
+	width: auto !important;
+	margin: 0px auto 0 !important;
+	height: auto !important;
+}
+.lock-pwd form .form-group{
+	width: 233px !important;	
+	border-radius: 5px;
+	box-shadow: 0 0 20px #BFBFBF;
+	padding: 0 10px;
+}
+
+.login-wrap{
+	margin: 0;
+	margin-top: 0 !important;
+}	
+
+#centro{
+	margin:0 auto;
+	width: 625px;
+}
+
+.ui-dialog-titlebar-close{
+	background:url(../img/closelabel.png) no-repeat;
+	background-size: 50%;
+	background-position:center;
+}
+
+div.ui-dialog{
+	top: 240px !important;	
+}
+
+.icheckbox_minimal-green{
+	background-image:none !important;	
+}
+
+#container_listar_nota #facebox{
+	top: 240px !important;	
+	}
+	
+.buttons_home a{
+		width: 170px;
+}
+
+.form_vencedores{
+	margin-left: 5px;	
+	background-image: url(../img/form_vencedores.jpg);
+	padding-left: 26px;
+	padding-bottom: 15px;
+	width: 480px;
+	height: 570px;
+	}
+	
+	.form_vencedores span{
+		display: block;
+		font-weight:600
+	}
+	
+	span#nome{
+    position: relative;
+    top: 36px;
+    left: 47px;
+	}
+	
+	span#email{
+    position: relative;
+    /* float: left; */
+    top: 45px;
+    left: 49px;
+	}
+	
+	span#data_nascimento{
+    position: relative;
+    top: 27px;
+    left: 319px;
+	}
+															
+	span#nome_responsavel{
+    position: relative;
+    top: 60px;
+    left: 44px;
+	}
+	span#email_responsavel{
+    position: relative;
+    top: 67px;
+    left: 52px;
+	}
+	span#data_nascimento_responsavel{
+   		position: relative;
+		top: 49px;
+		left: 316px;
+	}
+	
+	span#cpf_responsavel{
+        position: relative;
+		top: 57px;
+		left: 34px;
+	}
+	
+	span#telefone_responsavel{
+		position: relative;
+		top: 39px;
+		left: 171px;
+	}
+	
+	span#cep_responsavel {
+		position: relative;
+		top: 71px;
+		left: 37px;
+	}
+	span#estado_responsavel{
+		position: relative;
+		top: 53px;
+		left: 270px;}
+	span#endereco_responsavel{
+		position: relative;
+		top: 61px;
+		left: 73px;}
+	span#numero_responsavel{
+		position: relative;
+		top: 43px;
+		left: 354px;}
+	span#bairro_responsavel{
+		position: relative;
+		top: 51px;
+		left: 50px;}
+	span#cidade_responsavel{
+		position: relative;
+		top: 33px;
+		left: 212px;}
+	span#estadoU{
+		position: relative;
+		top: 66px;
+		left: 55px;}
+	span#cidadeU{
+		position: relative;
+		top: 49px;
+		left: 195px;}
+	span#unidade{
+		position: relative;
+		top: 59px;
+		left: 59px}
+	span#orientador{
+		position: relative;
+		top: 68px;
+		left: 101px;}
+	span#frase{
+		position: relative;
+		top: 102px;
+		left: 6px;
+		width: 412px;}
+.link_aluno:hover{text-decoration:underline}
+
+.historias_cadastradas {
+	background-color: #efefef;
+	padding: 5px 5px 5px 5px;
+	font-size: 18px;
+	font-weight: bold;
+}
+														
+/*header.header.fixed-top.clearfix{display:none}*/
+
+/**** CSS para as paginas configuraçoes *************/
+/* criado por Sergio A. Oliveira */
+
+#ConfigConfigurarDatasForm fieldset div.input.date label{width: 88px}
+#ConfigConfigurarDatasForm fieldset > label{font-size: 18px; display: -webkit-box;}
+#buttons_configuracao a {margin:10px !important}
+
+
+
